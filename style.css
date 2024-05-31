@@ -11,8 +11,12 @@
       front-family: "Work Sans", sans-serif;
       */
     } 
-  
-body {background-image: linear-gradient(to right,  white, #0F4B8F  );}
+header{
+    background-color: #00204f2a;
+    text-align: center;
+} 
+
+body,html {background-image: linear-gradient(to right,  white, #0F4B8F  );}
 
 h1{
     margin: 50px;
@@ -30,7 +34,7 @@ main{
 h1{
 font-size: 3em;
 color: #96783d;
-text-align: center;
+
 text-shadow:1px 1px 2px #5f3c00a8;
 }
 
